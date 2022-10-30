@@ -1,6 +1,5 @@
-#add config.py file
-config.py
-
+#Adding config.py file.
+api_keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +130,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Python-api-challenge/.gitignore at main · TobiAdel/Python-api-challenge
