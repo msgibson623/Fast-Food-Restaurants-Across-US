@@ -1,5 +1,7 @@
 # Fast-Food-Restaurants-Across-US
 Anonymous Gophers- Group 4/Project 1
+(Tobi Adelaja, Marcus Gibson, Haslett Fernandes, Alex Garcia, & Cathie Boren)
+
 
 #Project Description:
 As a group, we wanted to know about the fast food chains in the US. We were interested to know the most
